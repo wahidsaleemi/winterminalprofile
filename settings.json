@@ -122,7 +122,7 @@
                 "commandline": "wsl.exe -d Ubuntu",
                 "cursorColor": "#FFFFFF",
                 "cursorShape": "bar",
-                "fontFace": "UbuntuMono NF",
+                "fontFace": "Delugia Nerd Font",
                 "fontSize": 10,
                 "historySize": 9001,
                 "icon": "ms-appx:///ProfileIcons/{9acb9455-ca41-5af7-950f-6bca1bc9722f}.png",
