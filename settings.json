@@ -97,7 +97,7 @@
                 "backgroundImageStretchMode": "none",
                 "closeOnExit": true,
                 "colorScheme": "Campbell",
-                "commandline": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+                "commandline": "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.1.1.0_x64__8wekyb3d8bbwe\\pwsh.exe",
                 "cursorColor": "#FFFFFF",
                 "cursorShape": "bar",
                 "fontFace": "Delugia Nerd Font",
